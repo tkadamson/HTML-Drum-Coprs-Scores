@@ -3406,17 +3406,17 @@
  .dropdown-item:hover, .dropdown-item:focus {
    color: #202020;
    text-decoration: none;
-   background-color: #eee;
+   background-color: rgb(0, 0, 0);
  }
  
  .dropdown-item.active, .dropdown-item:active {
-   color: #fff;
+   color: rgb(0, 0, 0);
    text-decoration: none;
-   background-color: #446e9b;
+   background-color: #000000;
  }
  
  .dropdown-item.disabled, .dropdown-item:disabled {
-   color: #999;
+   color: rgb(0, 0, 0);
    pointer-events: none;
    background-color: transparent;
  }

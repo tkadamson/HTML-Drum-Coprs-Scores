@@ -3396,7 +3396,7 @@
    padding: 0.25rem 1.5rem;
    clear: both;
    font-weight: 400;
-   color: #2d2d2d;
+   color:  #f56464;
    text-align: inherit;
    white-space: nowrap;
    background-color: transparent;
@@ -3404,19 +3404,19 @@
  }
  
  .dropdown-item:hover, .dropdown-item:focus {
-   color: #202020;
+   color:  #f56464;
    text-decoration: none;
-   background-color: rgb(0, 0, 0);
+   background-color: rgb(60, 121, 201);
  }
  
  .dropdown-item.active, .dropdown-item:active {
    color: rgb(0, 0, 0);
    text-decoration: none;
-   background-color: #000000;
+   background-color: white;
  }
  
  .dropdown-item.disabled, .dropdown-item:disabled {
-   color: rgb(0, 0, 0);
+   color:  #f56464;
    pointer-events: none;
    background-color: transparent;
  }
@@ -3437,7 +3437,7 @@
  .dropdown-item-text {
    display: block;
    padding: 0.25rem 1.5rem;
-   color: #2d2d2d;
+   color:  #f56464;
  }
  
  .btn-group,

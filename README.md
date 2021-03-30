@@ -1,5 +1,7 @@
 # hw9-dci-dashboard
 
+#### GRADE: A+
+
 Project Site: https://tkadamson.github.io/hw9-dci-dashboard/
 
 For this project, I built my own visualizations of Drum Corps International Scores by season. More info about that process can be found on the website landing page. 
